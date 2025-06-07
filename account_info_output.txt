@@ -1,0 +1,91 @@
+
+--- 2025-06-07T21:09:36.665684+00:00 ---
+
+============================================================
+🎯 NEW MENTION DETECTED!
+============================================================
+👤 Username: @testuser123
+📛 Display Name: Test User
+📝 Bio: This is a test user account for debugging
+📍 Location: Test City, Test State
+👥 Followers: 150
+➡️  Following: 200
+📊 Tweets: 500
+❤️  Listed: 5
+🔗 Profile URL: https://twitter.com/testuser123
+🖼️  Profile Image: https://example.com/avatar.jpg
+💬 Mention Text: Hey @satyvm acc can you help me with this?
+⏰ Posted: 2025-06-07 21:09:36.665486+00:00
+🔢 Tweet ID: 1234567890123456789
+============================================================
+
+
+
+--- 2025-06-07T21:12:19.394314+00:00 ---
+
+============================================================
+🎯 NEW MENTION DETECTED!
+============================================================
+👤 Username: @testuser123
+📛 Display Name: Test User
+📝 Bio: This is a test user account for debugging
+📍 Location: Test City, Test State
+👥 Followers: 150
+➡️  Following: 200
+📊 Tweets: 500
+❤️  Listed: 5
+🔗 Profile URL: https://twitter.com/testuser123
+🖼️  Profile Image: https://example.com/avatar.jpg
+💬 Mention Text: Hey @satyvm acc can you help me with this?
+⏰ Posted: 2025-06-07 21:12:19.393413+00:00
+🔢 Tweet ID: 1234567890123456789
+============================================================
+
+
+
+--- 2025-06-07T21:15:21.254192+00:00 ---
+
+============================================================
+🎯 NEW MENTION DETECTED!
+============================================================
+👤 Username: @satyvm
+📛 Display Name: satyam
+📝 Bio: dev, writer & building @fitfocus_app | satyam.btc @Stacks | satyvm.eth
+📍 Location: Remote
+👥 Followers: 58
+➡️  Following: 87
+📊 Tweets: 253
+❤️  Listed: 0
+🔗 Profile URL: https://twitter.com/satyvm
+🖼️  Profile Image: https://pbs.twimg.com/profile_images/1735925434230190080/TnRMz451_normal.jpg
+💬 Mention Text: @dr_cintas @satyvm acc
+⏰ Posted: 2025-06-07 21:14:58+00:00
+🔢 Tweet ID: 1931459897352405449
+============================================================
+
+
+
+--- 2025-06-07T21:22:57.547903+00:00 ---
+
+============================================================
+🎯 NEW MENTION DETECTED!
+============================================================
+📋 Type: Reply to original tweet author
+👥 Replier: User ID 987654321098765432
+📄 Showing: Original tweet author details
+👤 Username: @original_poster
+📛 Display Name: Original Tweet Author
+📝 Bio: I posted the original tweet that got a reply with @satyvm mention
+📍 Location: Original City, State
+👥 Followers: 1,250
+➡️  Following: 300
+📊 Tweets: 1,500
+❤️  Listed: 25
+🔗 Profile URL: https://twitter.com/original_poster
+🖼️  Profile Image: https://example.com/original_avatar.jpg
+💬 Mention Text: I agree! @satyvm acc what do you think about this?
+⏰ Posted: 2025-06-07 21:22:57.547388+00:00
+🔢 Tweet ID: 1234567890123456789
+============================================================
+
+

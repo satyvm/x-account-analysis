@@ -1,0 +1,114 @@
+2025-06-08 02:36:09,013 - INFO - 📊 API Usage loaded - Total calls this month: 0
+2025-06-08 02:36:09,014 - INFO - 📖 Last seen tweet ID: 1931101178504663103
+2025-06-08 02:36:09,014 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 02:36:09,014 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 02:36:09,014 - INFO - 📊 API calls this session: 0/5
+2025-06-08 02:36:09,014 - INFO - 🔐 Authenticating with X API...
+2025-06-08 02:36:09,351 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 1
+2025-06-08 02:36:09,352 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 02:36:09,352 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 02:36:09,352 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
+2025-06-08 02:36:09,352 - INFO - 🔍 Since tweet ID: 1931101178504663103
+2025-06-08 02:36:09,606 - WARNING - Rate limit exceeded. Sleeping for 551 seconds.
+2025-06-08 02:37:35,274 - INFO - 🛑 Monitoring stopped by user
+2025-06-08 02:39:36,281 - INFO - 📊 API Usage loaded - Total calls this month: 1
+2025-06-08 02:39:36,282 - INFO - 📖 Last seen tweet ID: 1931101178504663103
+2025-06-08 02:39:36,282 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 02:39:36,282 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 02:39:36,282 - INFO - 📊 API calls this session: 0/5
+2025-06-08 02:39:36,282 - INFO - 🔐 Authenticating with X API...
+2025-06-08 02:39:36,664 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 2
+2025-06-08 02:39:36,665 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 02:39:36,665 - INFO - 🧪 TEST MODE: Generating mock mentions
+2025-06-08 02:39:36,665 - INFO - 🧪 Generated 1 test mention containing trigger phrase
+2025-06-08 02:39:36,665 - INFO - 📱 Processing mention from user ID: 987654321098765432
+2025-06-08 02:39:36,665 - INFO - ✅ Successfully displayed info for @testuser123
+2025-06-08 02:39:36,665 - INFO - ✅ Monitoring session completed successfully
+2025-06-08 02:42:19,075 - INFO - 📊 API Usage loaded - Total calls this month: 2
+2025-06-08 02:42:19,075 - INFO - 📖 Last seen tweet ID: 1931101178504663103
+2025-06-08 02:42:19,075 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 02:42:19,075 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 02:42:19,075 - INFO - 📊 API calls this session: 0/5
+2025-06-08 02:42:19,075 - INFO - 🔐 Authenticating with X API...
+2025-06-08 02:42:19,391 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 3
+2025-06-08 02:42:19,393 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 02:42:19,393 - INFO - 🧪 TEST MODE: Generating mock mentions
+2025-06-08 02:42:19,393 - INFO - 🧪 Generated 1 test mention containing trigger phrase
+2025-06-08 02:42:19,393 - INFO - 📱 Processing mention from user ID: 987654321098765432
+2025-06-08 02:42:19,394 - INFO - ✅ Successfully displayed info for @testuser123
+2025-06-08 02:42:19,394 - INFO - ✅ Monitoring session completed successfully
+2025-06-08 02:44:53,239 - INFO - 📊 API Usage loaded - Total calls this month: 3
+2025-06-08 02:44:53,240 - INFO - 📖 Last seen tweet ID: 1931101178504663103
+2025-06-08 02:44:53,240 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 02:44:53,240 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 02:44:53,240 - INFO - 📊 API calls this session: 0/5
+2025-06-08 02:44:53,240 - INFO - 🔐 Authenticating with X API...
+2025-06-08 02:44:53,597 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 4
+2025-06-08 02:44:53,598 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 02:44:53,598 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 02:44:53,598 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
+2025-06-08 02:44:53,598 - INFO - 🔍 Since tweet ID: 1931101178504663103
+2025-06-08 02:44:53,855 - WARNING - Rate limit exceeded. Sleeping for 27 seconds.
+2025-06-08 02:45:21,251 - INFO - 🔥 API CALL: get_users_mentions (Cost: 1) - Session: 2/5, Total: 5
+2025-06-08 02:45:21,252 - INFO - 📬 Found 1 new mentions
+2025-06-08 02:45:21,253 - INFO - 💾 Saved last seen tweet ID: 1931459897352405449
+2025-06-08 02:45:21,253 - INFO - 📝 Processing mention: '@dr_cintas @satyvm acc...'
+2025-06-08 02:45:21,253 - INFO - 🎯 Found relevant mention from user ID: 912363642154127361
+2025-06-08 02:45:21,253 - INFO - 📱 Processing mention from user ID: 912363642154127361
+2025-06-08 02:45:21,254 - INFO - ✅ Successfully displayed info for @satyvm
+2025-06-08 02:45:21,254 - INFO - ✅ Monitoring session completed successfully
+2025-06-08 02:52:57,197 - INFO - 📊 API Usage loaded - Total calls this month: 5
+2025-06-08 02:52:57,198 - INFO - 📖 Last seen tweet ID: 1931459897352405449
+2025-06-08 02:52:57,198 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 02:52:57,198 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 02:52:57,198 - INFO - 📊 API calls this session: 0/5
+2025-06-08 02:52:57,198 - INFO - 🔐 Authenticating with X API...
+2025-06-08 02:52:57,547 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 6
+2025-06-08 02:52:57,547 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 02:52:57,547 - INFO - 🧪 TEST MODE: Generating mock mentions
+2025-06-08 02:52:57,547 - INFO - 🧪 Generated 1 test reply mention containing trigger phrase
+2025-06-08 02:52:57,547 - INFO - 📱 Processing mention from user ID: 987654321098765432
+2025-06-08 02:52:57,547 - INFO - 🔄 Reply detected - showing original tweet author info (ID: 555666777888999000)
+2025-06-08 02:52:57,548 - INFO - ✅ Successfully displayed info for @original_poster
+2025-06-08 02:52:57,548 - INFO - ✅ Monitoring session completed successfully
+2025-06-08 02:54:14,072 - INFO - 📊 API Usage loaded - Total calls this month: 6
+2025-06-08 02:54:14,073 - INFO - 📖 Last seen tweet ID: 1931459897352405449
+2025-06-08 02:54:14,073 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 02:54:14,073 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 02:54:14,073 - INFO - 📊 API calls this session: 0/5
+2025-06-08 02:54:14,073 - INFO - 🔐 Authenticating with X API...
+2025-06-08 02:54:14,400 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 7
+2025-06-08 02:54:14,402 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 02:54:14,402 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 02:54:14,402 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
+2025-06-08 02:54:14,402 - INFO - 🔍 Since tweet ID: 1931459897352405449
+2025-06-08 02:54:14,643 - WARNING - Rate limit exceeded. Sleeping for 368 seconds.
+2025-06-08 03:00:22,939 - INFO - 🔥 API CALL: get_users_mentions (Cost: 1) - Session: 2/5, Total: 8
+2025-06-08 03:00:22,941 - INFO - 📭 No new mentions found
+2025-06-08 03:00:22,941 - INFO - 🔚 No relevant mentions found. Monitoring complete.
+2025-06-08 03:45:21,277 - INFO - 📊 API Usage loaded - Total calls this month: 8
+2025-06-08 03:45:21,277 - INFO - 📖 Last seen tweet ID: 1931459897352405449
+2025-06-08 03:45:21,277 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 03:45:21,277 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 03:45:21,277 - INFO - 📊 API calls this session: 0/5
+2025-06-08 03:45:21,277 - INFO - 🔐 Authenticating with X API...
+2025-06-08 03:45:21,700 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 9
+2025-06-08 03:45:21,701 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 03:45:21,702 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 03:45:21,702 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
+2025-06-08 03:45:21,702 - INFO - 🔍 Since tweet ID: 1931459897352405449
+2025-06-08 03:45:21,974 - INFO - 🔥 API CALL: get_users_mentions (Cost: 1) - Session: 2/5, Total: 10
+2025-06-08 03:45:21,974 - INFO - 📭 No new mentions found
+2025-06-08 03:45:21,974 - INFO - 🔚 No relevant mentions found. Monitoring complete.
+2025-06-08 03:46:09,268 - INFO - 📊 API Usage loaded - Total calls this month: 10
+2025-06-08 03:46:09,268 - INFO - 📖 Last seen tweet ID: 1931459897352405449
+2025-06-08 03:46:09,268 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 03:46:09,268 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 03:46:09,268 - INFO - 📊 API calls this session: 0/5
+2025-06-08 03:46:09,268 - INFO - 🔐 Authenticating with X API...
+2025-06-08 03:46:09,564 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 11
+2025-06-08 03:46:09,565 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 03:46:09,566 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 03:46:09,566 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
+2025-06-08 03:46:09,566 - INFO - 🔍 Since tweet ID: 1931459897352405449
+2025-06-08 03:46:09,795 - WARNING - Rate limit exceeded. Sleeping for 853 seconds.
