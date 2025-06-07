@@ -112,3 +112,13 @@
 2025-06-08 03:46:09,566 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
 2025-06-08 03:46:09,566 - INFO - 🔍 Since tweet ID: 1931459897352405449
 2025-06-08 03:46:09,795 - WARNING - Rate limit exceeded. Sleeping for 853 seconds.
+2025-06-08 04:00:23,198 - INFO - 🔥 API CALL: get_users_mentions (Cost: 1) - Session: 2/5, Total: 12
+2025-06-08 04:00:23,199 - INFO - 📬 Found 1 new mentions
+2025-06-08 04:00:23,200 - INFO - 💾 Saved last seen tweet ID: 1931475262354399347
+2025-06-08 04:00:23,200 - INFO - 📝 Processing mention: '@danielvf @satyvm acc...'
+2025-06-08 04:00:23,200 - INFO - 🔄 Found reply mention - Original tweet author ID: 5678
+2025-06-08 04:00:23,200 - INFO - 📝 Reply from user ID: 912363642154127361
+2025-06-08 04:00:23,200 - INFO - 📱 Processing mention from user ID: 912363642154127361
+2025-06-08 04:00:23,200 - INFO - 🔄 Reply detected - showing original tweet author info (ID: 5678)
+2025-06-08 04:00:23,201 - INFO - ✅ Successfully displayed info for @danielvf
+2025-06-08 04:00:23,201 - INFO - ✅ Monitoring session completed successfully
