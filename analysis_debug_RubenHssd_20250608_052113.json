@@ -1,0 +1,162 @@
+{
+  "timestamp": "2025-06-07T23:51:13.516324+00:00",
+  "username": "RubenHssd",
+  "account_fundamentals": {
+    "account_age": {
+      "total_days": 4467,
+      "years": 12,
+      "days": 87,
+      "created_at": "2013-03-15T11:51:18+00:00"
+    },
+    "verification": {
+      "is_verified": true,
+      "verification_type": "blue",
+      "is_protected": false
+    },
+    "social_metrics": {
+      "followers": 26933,
+      "following": 469,
+      "ratio": 57.43,
+      "tweets_total": 15433,
+      "listed_count": 496,
+      "tweets_per_day": 3.45,
+      "like_count": 6261
+    },
+    "account_type": "Popular Account"
+  },
+  "profile_intelligence": {
+    "bio_analysis": {
+      "length": 49,
+      "word_count": 5,
+      "has_links": true,
+      "has_mentions": false,
+      "has_hashtags": false,
+      "has_emojis": false
+    },
+    "keywords": {
+      "top_keywords": [
+        "founder",
+        "bootstrapped"
+      ],
+      "professional_indicators": [
+        "founder"
+      ],
+      "crypto_indicators": [],
+      "tech_indicators": []
+    },
+    "industry_signals": "Professional Services",
+    "completeness_score": 10,
+    "max_completeness": 10,
+    "profile_data": {
+      "location": "the internet web",
+      "website": "https://t.co/BVfDSXCgYH",
+      "name": "Ruben Hassid"
+    },
+    "communication_style": "Neutral"
+  },
+  "content_behavior": {
+    "tweet_count": 50,
+    "engagement_metrics": {
+      "avg_likes": 175.2,
+      "avg_retweets": 19.2,
+      "avg_replies": 10.2,
+      "total_engagement": 10228
+    },
+    "content_patterns": {
+      "original_ratio": 0.04,
+      "reply_ratio": 0.96,
+      "media_ratio": 0.38,
+      "link_ratio": 0.46
+    },
+    "social_signals": {
+      "top_hashtags": [],
+      "top_mentions": [
+        "NathanLands",
+        "RubenHssd",
+        "forgebitz",
+        "nico_jeannen",
+        "FactoryAI",
+        "MaziyarPanahi",
+        "karpathy",
+        "benln",
+        "hcompany_ai",
+        "chalaska"
+      ],
+      "hashtag_diversity": 0,
+      "mention_diversity": 18,
+      "avg_hashtags_per_tweet": 0.0
+    },
+    "sentiment": {
+      "score": 0.105,
+      "classification": "Positive"
+    },
+    "posting_patterns": {
+      "most_active_day": "Thursday",
+      "most_active_hour": 16,
+      "posting_consistency": 0.7142857142857143
+    }
+  },
+  "network_influence": {
+    "influence_score": 100,
+    "influence_tier": "Macro Influencer",
+    "score_components": {
+      "follower_impact": 66.5,
+      "ratio_impact": 25,
+      "engagement_impact": 20,
+      "authority_impact": 25
+    },
+    "network_metrics": {
+      "followers": 26933,
+      "following": 469,
+      "ratio": 57.43,
+      "listed_count": 496
+    },
+    "network_position": "Information Broadcaster"
+  },
+  "risk_assessment": {
+    "risk_score": 100,
+    "risk_level": "Low Risk",
+    "risk_factors": [],
+    "authenticity_score": 100,
+    "authenticity_indicators": {
+      "profile_consistency": true,
+      "username_quality": true,
+      "time_diversity": true,
+      "verified_account": true
+    }
+  },
+  "business_intelligence": {
+    "business_score": 35,
+    "business_level": "Moderate Business Presence",
+    "business_indicators": [
+      "Has business website",
+      "Professional title in profile"
+    ],
+    "commercial_keywords": [
+      "founder"
+    ],
+    "commercial_activity": {
+      "score": 2.0,
+      "indicators": [
+        "1 promotional tweets found"
+      ]
+    },
+    "monetization_signals": {
+      "has_website": true,
+      "professional_title": true,
+      "business_keywords_count": 1
+    }
+  },
+  "overall_scores": {
+    "credibility_score": 100,
+    "engagement_quality": 46.1,
+    "overall_rating": "Very Good",
+    "key_insights": [
+      "Established account with long history",
+      "High influence potential in their network",
+      "Heavily relies on sharing/replying to others",
+      "Professional presence in Professional Services",
+      "High authenticity indicators"
+    ]
+  }
+}

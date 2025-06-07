@@ -1,0 +1,46 @@
+
+--- Deep Analysis: 2025-06-07T22:54:27.492912+00:00 ---
+User: @original_poster
+
+======================================================================
+🔬 DEEP PROFILE ANALYSIS
+======================================================================
+📅 Account Age: 0 years, 0 days (0 total days)
+👥 Follower Ratio: 1,250 followers / 300 following = 4.17
+📝 Bio Length: 65 characters
+🔤 Top Keywords: posted, original, tweet, that, got
+🔗 Has Links: No
+@ Has Mentions: Yes
+🐦 Tweet Analysis: Skipped (API limit or no tweets)
+⭐ Influence Score: 43/100
+   └─ Follower Impact: 31.0
+   └─ Ratio Impact: 12.5
+   └─ Engagement Impact: 0.0
+======================================================================
+
+
+
+--- Deep Analysis: 2025-06-07T23:13:32.500383+00:00 ---
+User: @RaoulSaffron
+
+======================================================================
+🔬 DEEP PROFILE ANALYSIS
+======================================================================
+📅 Account Age: 0 years, 0 days (0 total days)
+👥 Follower Ratio: 1,385 followers / 1,606 following = 0.86
+📝 Bio Length: 155 characters
+🔤 Top Keywords: solidity, head, developer, tooling, creator
+🔗 Has Links: Yes
+@ Has Mentions: Yes
+🐦 Recent Tweets Analyzed: 20
+❤️ Average Likes: 13.8
+🔄 Average Retweets: 0.2
+💬 Reply Ratio: 0.55 (lower = more original content)
+😊 Sentiment: 0.226 (Positive)
+⭐ Influence Score: 40/100
+   └─ Follower Impact: 31.4
+   └─ Ratio Impact: 2.6
+   └─ Engagement Impact: 6.9
+======================================================================
+
+

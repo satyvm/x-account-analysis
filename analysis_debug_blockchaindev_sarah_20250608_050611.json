@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-06-07T23:36:11.615339+00:00",
+  "username": "blockchaindev_sarah",
+  "account_fundamentals": {
+    "account_age": {
+      "total_days": 2123,
+      "years": 5,
+      "days": 298,
+      "created_at": "2019-08-15T00:00:00+00:00"
+    },
+    "verification": {
+      "is_verified": true,
+      "verification_type": "blue",
+      "is_protected": false
+    },
+    "social_metrics": {
+      "followers": 28750,
+      "following": 1247,
+      "ratio": 23.06,
+      "tweets_total": 4830,
+      "listed_count": 423,
+      "tweets_per_day": 2.28,
+      "like_count": 15673
+    },
+    "account_type": "Popular Account"
+  },
+  "profile_intelligence": {
+    "bio_analysis": {
+      "length": 151,
+      "word_count": 26,
+      "has_links": false,
+      "has_mentions": true,
+      "has_hashtags": false,
+      "has_emojis": true
+    },
+    "keywords": {
+      "top_keywords": [
+        "security",
+        "senior",
+        "researcher",
+        "smart",
+        "contract",
+        "auditor",
+        "defi",
+        "specialist",
+        "speaker",
+        "building"
+      ],
+      "professional_indicators": [
+        "researcher",
+        "senior"
+      ],
+      "crypto_indicators": [
+        "blockchain",
+        "defi",
+        "web3",
+        "smart contract",
+        ".eth"
+      ],
+      "tech_indicators": [
+        "ai"
+      ]
+    },
+    "industry_signals": "Crypto/Blockchain",
+    "completeness_score": 10,
+    "max_completeness": 10,
+    "profile_data": {
+      "location": "San Francisco, CA",
+      "website": "https://sarahchen.dev",
+      "name": "Sarah Chen | Blockchain Security Expert"
+    },
+    "communication_style": "Technical/Builder"
+  },
+  "content_behavior": null,
+  "network_influence": {
+    "influence_score": 100,
+    "influence_tier": "Macro Influencer",
+    "score_components": {
+      "follower_impact": 66.9,
+      "ratio_impact": 25,
+      "engagement_impact": 0,
+      "authority_impact": 25
+    },
+    "network_metrics": {
+      "followers": 28750,
+      "following": 1247,
+      "ratio": 23.06,
+      "listed_count": 423
+    },
+    "network_position": "Thought Leader"
+  },
+  "risk_assessment": {
+    "risk_score": 100,
+    "risk_level": "Low Risk",
+    "risk_factors": [],
+    "authenticity_score": 100,
+    "authenticity_indicators": {
+      "profile_consistency": true,
+      "username_quality": true,
+      "time_diversity": true,
+      "verified_account": true
+    }
+  },
+  "business_intelligence": {
+    "business_score": 10,
+    "business_level": "Some Business Indicators",
+    "business_indicators": [
+      "Has business website"
+    ],
+    "commercial_keywords": [],
+    "commercial_activity": {
+      "score": 0,
+      "indicators": []
+    },
+    "monetization_signals": {
+      "has_website": true,
+      "professional_title": false,
+      "business_keywords_count": 0
+    }
+  },
+  "overall_scores": {
+    "credibility_score": 100,
+    "engagement_quality": 0,
+    "overall_rating": "Good",
+    "key_insights": [
+      "High influence potential in their network",
+      "Professional presence in Crypto/Blockchain",
+      "High authenticity indicators"
+    ]
+  }
+}

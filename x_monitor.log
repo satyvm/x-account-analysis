@@ -122,3 +122,92 @@
 2025-06-08 04:00:23,200 - INFO - 🔄 Reply detected - showing original tweet author info (ID: 5678)
 2025-06-08 04:00:23,201 - INFO - ✅ Successfully displayed info for @danielvf
 2025-06-08 04:00:23,201 - INFO - ✅ Monitoring session completed successfully
+2025-06-08 04:24:26,881 - INFO - 📊 API Usage loaded - Total calls this month: 12
+2025-06-08 04:24:26,881 - INFO - 📖 No previous tweet ID found - will fetch recent mentions
+2025-06-08 04:24:26,881 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 04:24:26,881 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 04:24:26,881 - INFO - 📊 API calls this session: 0/5
+2025-06-08 04:24:26,881 - INFO - 🔐 Authenticating with X API...
+2025-06-08 04:24:27,196 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 13
+2025-06-08 04:24:27,197 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 04:24:27,197 - INFO - 🧪 TEST MODE: Generating mock mentions
+2025-06-08 04:24:27,197 - INFO - 🧪 Generated 1 test reply mention containing trigger phrase
+2025-06-08 04:24:27,198 - INFO - 📱 Processing mention from user ID: 987654321098765432
+2025-06-08 04:24:27,198 - INFO - 🔄 Reply detected - showing original tweet author info (ID: 555666777888999000)
+2025-06-08 04:24:27,199 - INFO - ✅ Successfully displayed info for @original_poster
+2025-06-08 04:24:27,199 - INFO - 🔬 Starting deep profile analysis...
+2025-06-08 04:24:27,199 - INFO - 🔬 Starting deep analysis for @original_poster
+2025-06-08 04:24:27,199 - INFO - 📊 Calculating account vitals...
+2025-06-08 04:24:27,200 - INFO - 📝 Analyzing bio content...
+2025-06-08 04:24:27,200 - INFO - 🐦 Fetching recent tweets for engagement analysis...
+2025-06-08 04:24:27,490 - INFO - 🔥 API CALL: get_users_tweets (Cost: 1) - Session: 2/5, Total: 14
+2025-06-08 04:24:27,491 - INFO - 📭 No recent tweets found
+2025-06-08 04:24:27,491 - INFO - ⭐ Calculating influence score...
+2025-06-08 04:24:27,494 - INFO - ✅ Deep analysis completed for @original_poster
+2025-06-08 04:24:27,494 - INFO - ✅ Monitoring session completed successfully
+2025-06-08 04:28:30,446 - INFO - 📊 API Usage loaded - Total calls this month: 14
+2025-06-08 04:28:30,447 - INFO - 📖 No previous tweet ID found - will fetch recent mentions
+2025-06-08 04:28:30,447 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 04:28:30,447 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 04:28:30,447 - INFO - 📊 API calls this session: 0/5
+2025-06-08 04:28:30,447 - INFO - 🔐 Authenticating with X API...
+2025-06-08 04:28:30,744 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 15
+2025-06-08 04:28:30,745 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 04:28:30,745 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 04:28:30,745 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
+2025-06-08 04:28:30,745 - INFO - 🔍 Since tweet ID: None
+2025-06-08 04:28:31,111 - INFO - 🔥 API CALL: get_users_mentions (Cost: 1) - Session: 2/5, Total: 16
+2025-06-08 04:28:31,122 - INFO - 📬 Found 5 new mentions
+2025-06-08 04:28:31,122 - INFO - 💾 Saved last seen tweet ID: 1931485002426102138
+2025-06-08 04:28:31,122 - INFO - 📝 Processing mention: '@zigtur @RareSkills_io @satyvm acc...'
+2025-06-08 04:28:31,122 - INFO - 🔄 Found reply mention - Original tweet author ID: 1477954862151315457
+2025-06-08 04:28:31,122 - INFO - 📝 Reply from user ID: 912363642154127361
+2025-06-08 04:28:31,122 - INFO - 📝 Processing mention: '@RaoulSaffron @satyvm acc...'
+2025-06-08 04:28:31,122 - INFO - 🔄 Found reply mention - Original tweet author ID: 1451148427073671174
+2025-06-08 04:28:31,122 - INFO - 📝 Reply from user ID: 912363642154127361
+2025-06-08 04:28:31,122 - INFO - 📝 Processing mention: '@satyvm @Fanboy_Moto 😑...'
+2025-06-08 04:28:31,122 - INFO - ⏭️  Mention doesn't contain trigger phrase
+2025-06-08 04:28:31,122 - INFO - 📝 Processing mention: '@satyvm very interesting. thank you...'
+2025-06-08 04:28:31,122 - INFO - ⏭️  Mention doesn't contain trigger phrase
+2025-06-08 04:28:31,122 - INFO - 📝 Processing mention: '@satyvm Hey Satyam, I want to talk to you about an opportunity, Please follow me back to get the con...'
+2025-06-08 04:28:31,122 - INFO - ⏭️  Mention doesn't contain trigger phrase
+2025-06-08 04:28:31,122 - INFO - 📱 Processing mention from user ID: 912363642154127361
+2025-06-08 04:28:31,122 - INFO - 🔄 Reply detected - showing original tweet author info (ID: 1477954862151315457)
+2025-06-08 04:28:31,123 - INFO - ✅ Successfully displayed info for @zigtur
+2025-06-08 04:28:31,123 - INFO - 🔬 Starting deep profile analysis...
+2025-06-08 04:28:31,123 - INFO - 🔬 Starting deep analysis for @zigtur
+2025-06-08 04:28:31,123 - INFO - 📊 Calculating account vitals...
+2025-06-08 04:28:31,123 - INFO - 📝 Analyzing bio content...
+2025-06-08 04:28:31,124 - INFO - 🐦 Fetching recent tweets for engagement analysis...
+2025-06-08 04:28:31,362 - WARNING - Rate limit exceeded. Sleeping for 657 seconds.
+2025-06-08 04:30:17,539 - INFO - 🛑 Monitoring stopped by user
+2025-06-08 04:31:49,960 - INFO - 📊 API Usage loaded - Total calls this month: 16
+2025-06-08 04:31:49,960 - INFO - 📖 Last seen tweet ID: 1931485002426102138
+2025-06-08 04:31:49,960 - INFO - 🚀 Starting X Mention Monitor
+2025-06-08 04:31:49,960 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 04:31:49,960 - INFO - 📊 API calls this session: 0/5
+2025-06-08 04:31:49,960 - INFO - 🔐 Authenticating with X API...
+2025-06-08 04:31:50,268 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/5, Total: 17
+2025-06-08 04:31:50,270 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 04:31:50,270 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 04:31:50,270 - INFO - 🔍 Looking for trigger phrase: '@satyvm acc'
+2025-06-08 04:31:50,270 - INFO - 🔍 Since tweet ID: 1931485002426102138
+2025-06-08 04:31:50,578 - WARNING - Rate limit exceeded. Sleeping for 701 seconds.
+2025-06-08 04:43:32,042 - INFO - 🔥 API CALL: get_users_mentions (Cost: 1) - Session: 2/5, Total: 18
+2025-06-08 04:43:32,044 - INFO - 📬 Found 1 new mentions
+2025-06-08 04:43:32,045 - INFO - 💾 Saved last seen tweet ID: 1931487016837107828
+2025-06-08 04:43:32,045 - INFO - 📝 Processing mention: '@RaoulSaffron @satyvm acc...'
+2025-06-08 04:43:32,045 - INFO - 🔄 Found reply mention - Original tweet author ID: 1451148427073671174
+2025-06-08 04:43:32,045 - INFO - 📝 Reply from user ID: 912363642154127361
+2025-06-08 04:43:32,045 - INFO - 📱 Processing mention from user ID: 912363642154127361
+2025-06-08 04:43:32,045 - INFO - 🔄 Reply detected - showing original tweet author info (ID: 1451148427073671174)
+2025-06-08 04:43:32,046 - INFO - ✅ Successfully displayed info for @RaoulSaffron
+2025-06-08 04:43:32,046 - INFO - 🔬 Starting deep profile analysis...
+2025-06-08 04:43:32,046 - INFO - 🔬 Starting deep analysis for @RaoulSaffron
+2025-06-08 04:43:32,046 - INFO - 📊 Calculating account vitals...
+2025-06-08 04:43:32,046 - INFO - 📝 Analyzing bio content...
+2025-06-08 04:43:32,047 - INFO - 🐦 Fetching recent tweets for engagement analysis...
+2025-06-08 04:43:32,471 - INFO - 🔥 API CALL: get_users_tweets (Cost: 1) - Session: 3/5, Total: 19
+2025-06-08 04:43:32,500 - INFO - ⭐ Calculating influence score...
+2025-06-08 04:43:32,500 - INFO - ✅ Deep analysis completed for @RaoulSaffron
+2025-06-08 04:43:32,500 - INFO - ✅ Monitoring session completed successfully

@@ -114,3 +114,137 @@
 ============================================================
 
 
+
+--- 2025-06-07T22:54:27.198970+00:00 ---
+
+============================================================
+🎯 NEW MENTION DETECTED!
+============================================================
+📋 Type: Reply to original tweet author
+👥 Replier: User ID 987654321098765432
+📄 Showing: Original tweet author details
+👤 Username: @original_poster
+📛 Display Name: Original Tweet Author
+📝 Bio: I posted the original tweet that got a reply with @satyvm mention
+📍 Location: Original City, State
+👥 Followers: 1,250
+➡️  Following: 300
+📊 Tweets: 1,500
+❤️  Listed: 25
+🔗 Profile URL: https://twitter.com/original_poster
+🖼️  Profile Image: https://example.com/original_avatar.jpg
+💬 Mention Text: I agree! @satyvm acc what do you think about this?
+⏰ Posted: 2025-06-07 22:54:27.197856+00:00
+🔢 Tweet ID: 1234567890123456789
+============================================================
+
+
+
+--- 2025-06-07T22:58:31.123210+00:00 ---
+
+============================================================
+🎯 NEW MENTION DETECTED!
+============================================================
+📋 Type: Reply to original tweet author
+👥 Replier: User ID 912363642154127361
+📄 Showing: Original tweet author details
+👤 Username: @zigtur
+📛 Display Name: Zigtur
+📝 Bio: The "web3 cybersec guy" breaking Rust, Solidity & Go | Lead Security Researcher @spearbit & #1 all-time @cantinaxyz 🪐 | RareSkills instructor
+📍 Location: Not specified
+👥 Followers: 3,042
+➡️  Following: 819
+📊 Tweets: 1,302
+❤️  Listed: 36
+🔗 Profile URL: https://twitter.com/zigtur
+🖼️  Profile Image: https://pbs.twimg.com/profile_images/1910062986078601216/8rqjROz4_normal.jpg
+💬 Mention Text: @zigtur @RareSkills_io @satyvm acc
+⏰ Posted: 2025-06-07 22:54:44+00:00
+🔢 Tweet ID: 1931485002426102138
+============================================================
+
+
+
+--- 2025-06-07T23:13:32.046110+00:00 ---
+
+============================================================
+🎯 NEW MENTION DETECTED!
+============================================================
+📋 Type: Reply to original tweet author
+👥 Replier: User ID 912363642154127361
+📄 Showing: Original tweet author details
+👤 Username: @RaoulSaffron
+📛 Display Name: Raoul
+📝 Bio: Head of Developer Tooling @rv_inc
+Creator of https://t.co/Dcto1PwaRD
+
+Building Simbolik: The Solidity Debugger
+
+EVM | Solidity | Debugging | Formal Methods
+📍 Location: Not specified
+👥 Followers: 1,385
+➡️  Following: 1,606
+📊 Tweets: 527
+❤️  Listed: 8
+🔗 Profile URL: https://twitter.com/RaoulSaffron
+🖼️  Profile Image: https://pbs.twimg.com/profile_images/1453139019198521347/ftl0p5zl_normal.png
+💬 Mention Text: @RaoulSaffron @satyvm acc
+⏰ Posted: 2025-06-07 23:02:44+00:00
+🔢 Tweet ID: 1931487016837107828
+============================================================
+
+
+
+--- 2025-06-07T23:36:11.361155+00:00 ---
+
+================================================================================
+🎯 NEW MENTION DETECTED!
+================================================================================
+📋 Type: Reply to original tweet author
+👥 Replier: User ID 987654321098765432
+📄 Showing: Original tweet author details
+👤 Username: @blockchaindev_sarah
+📛 Display Name: Sarah Chen | Blockchain Security Expert
+📝 Bio: 🔐 Senior Security Researcher @CertiK | Smart Contract Auditor | DeFi Security Specialist | Speaker | Building safer Web3 | Views are my own | sarah.eth
+📍 Location: San Francisco, CA
+👥 Followers: 28,750
+➡️  Following: 1,247
+📊 Tweets: 4,830
+❤️  Listed: 423
+✅ Verification: Blue
+📅 Account Age: 5 years (2,123 days)
+🔗 Profile URL: https://twitter.com/blockchaindev_sarah
+🖼️  Profile Image: https://example.com/sarah_avatar.jpg
+💬 Mention Text: Great insights on blockchain security! @satyvm acc what's your take on this new DeFi protocol?
+⏰ Posted: 2025-06-07 23:36:11.359189+00:00
+🔢 Tweet ID: 1234567890123456789
+================================================================================
+
+
+
+--- 2025-06-07T23:39:53.543317+00:00 ---
+
+================================================================================
+🎯 NEW MENTION DETECTED!
+================================================================================
+📋 Type: Reply to original tweet author
+👥 Replier: User ID 912363642154127361
+📄 Showing: Original tweet author details
+👤 Username: @RubenHssd
+📛 Display Name: Ruben Hassid
+📝 Bio: Founder of https://t.co/n6tTy5Q7uX - bootstrapped
+📍 Location: the internet web
+👥 Followers: 26,933
+➡️  Following: 469
+📊 Tweets: 15,433
+❤️  Listed: 496
+✅ Verification: Blue
+📅 Account Age: 12 years (4,467 days)
+🔗 Profile URL: https://twitter.com/RubenHssd
+🖼️  Profile Image: https://pbs.twimg.com/profile_images/1780562642974785536/mtSfJKDq_normal.jpg
+💬 Mention Text: @RubenHssd @satyvm acc
+⏰ Posted: 2025-06-07 23:37:25+00:00
+🔢 Tweet ID: 1931495745783542261
+================================================================================
+
+

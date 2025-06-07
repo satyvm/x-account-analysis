@@ -1,0 +1,43 @@
+2025-06-08 05:06:11,028 - INFO - 📊 API Usage loaded - Total calls this month: 0
+2025-06-08 05:06:11,028 - INFO - 📖 Last seen tweet ID: 1931487016837107828
+2025-06-08 05:06:11,028 - INFO - 🚀 Starting Enhanced X Mention Monitor
+2025-06-08 05:06:11,028 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 05:06:11,028 - INFO - 📊 API calls this session: 0/10
+2025-06-08 05:06:11,028 - INFO - 🔬 Comprehensive analysis enabled - will perform detailed profile analysis
+2025-06-08 05:06:11,028 - INFO - 🔐 Authenticating with X API...
+2025-06-08 05:06:11,350 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/10, Total: 1
+2025-06-08 05:06:11,358 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 05:06:11,359 - INFO - 🧪 TEST MODE: Generating comprehensive mock mentions
+2025-06-08 05:06:11,359 - INFO - 🧪 Generated comprehensive test data for analysis
+2025-06-08 05:06:11,359 - INFO - 📱 Processing mention from user ID: 987654321098765432
+2025-06-08 05:06:11,360 - INFO - 🔄 Reply detected - analyzing original tweet author (ID: 555666777888999000)
+2025-06-08 05:06:11,364 - INFO - ✅ Successfully displayed basic info for @blockchaindev_sarah
+2025-06-08 05:06:11,364 - INFO - 🔬 Starting comprehensive profile analysis...
+2025-06-08 05:06:11,614 - INFO - 🔥 API CALL: get_users_tweets (Cost: 1) - Session: 2/10, Total: 2
+2025-06-08 05:06:11,618 - INFO - 🐛 Debug JSON saved: analysis_debug_blockchaindev_sarah_20250608_050611.json
+2025-06-08 05:06:11,618 - INFO - ✅ Comprehensive analysis completed for @blockchaindev_sarah
+2025-06-08 05:06:11,618 - INFO - ✅ Enhanced monitoring session completed successfully
+2025-06-08 05:09:52,887 - INFO - 📊 API Usage loaded - Total calls this month: 2
+2025-06-08 05:09:52,887 - INFO - 📖 Last seen tweet ID: 1931487016837107828
+2025-06-08 05:09:52,887 - INFO - 🚀 Starting Enhanced X Mention Monitor
+2025-06-08 05:09:52,887 - INFO - 🎯 Monitoring for: '@satyvm acc'
+2025-06-08 05:09:52,887 - INFO - 📊 API calls this session: 0/10
+2025-06-08 05:09:52,887 - INFO - 🔬 Comprehensive analysis enabled - will perform detailed profile analysis
+2025-06-08 05:09:52,887 - INFO - 🔐 Authenticating with X API...
+2025-06-08 05:09:53,224 - INFO - 🔥 API CALL: get_me (Cost: 1) - Session: 1/10, Total: 3
+2025-06-08 05:09:53,225 - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 05:09:53,225 - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 05:09:53,541 - INFO - 🔥 API CALL: get_users_mentions (Cost: 1) - Session: 2/10, Total: 4
+2025-06-08 05:09:53,541 - INFO - 📬 Found 1 new mentions
+2025-06-08 05:09:53,542 - INFO - 💾 Saved last seen tweet ID: 1931495745783542261
+2025-06-08 05:09:53,542 - INFO - 📝 Processing mention: '@RubenHssd @satyvm acc...'
+2025-06-08 05:09:53,542 - INFO - 🔄 Found reply mention - Original tweet author ID: 1269541526
+2025-06-08 05:09:53,542 - INFO - 📱 Processing mention from user ID: 912363642154127361
+2025-06-08 05:09:53,542 - INFO - 🔄 Reply detected - analyzing original tweet author (ID: 1269541526)
+2025-06-08 05:09:53,543 - INFO - ✅ Successfully displayed basic info for @RubenHssd
+2025-06-08 05:09:53,543 - INFO - 🔬 Starting comprehensive profile analysis...
+2025-06-08 05:09:53,793 - WARNING - Rate limit exceeded. Sleeping for 679 seconds.
+2025-06-08 05:21:13,512 - INFO - 🔥 API CALL: get_users_tweets (Cost: 1) - Session: 3/10, Total: 5
+2025-06-08 05:21:13,577 - INFO - 🐛 Debug JSON saved: analysis_debug_RubenHssd_20250608_052113.json
+2025-06-08 05:21:13,577 - INFO - ✅ Comprehensive analysis completed for @RubenHssd
+2025-06-08 05:21:13,577 - INFO - ✅ Enhanced monitoring session completed successfully
