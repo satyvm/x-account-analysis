@@ -1,0 +1,18 @@
+{
+  "user_ids": {
+    "jupiterexchange": "1446489618208067586",
+    "raydiumprotocol": "1358454920299433985",
+    "orca_so": "1308560600532803584",
+    "kaminofinance": "1549038204178911233",
+    "meteoraag": "1384042881808166924",
+    "saros_xyz": "1304982931476066304",
+    "driftprotocol": "1395713029593989121",
+    "solendprotocol": "1813270680181313537",
+    "marinadefinance": "1375046230858993664",
+    "jito_labs": "1411116427776610307"
+  },
+  "timestamp": "2025-06-08T00:14:19.124137+00:00",
+  "failed_usernames": [],
+  "total_accounts": 10,
+  "successful_resolutions": 10
+}

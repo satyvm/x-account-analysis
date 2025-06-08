@@ -1,0 +1,60 @@
+2025-06-08 05:44:38,784 - __main__ - INFO - 📊 API Usage loaded - Total: 0, Trust: 0
+2025-06-08 05:44:38,784 - __main__ - INFO - 📖 Last seen tweet ID: 1931495745783542261
+2025-06-08 05:44:38,784 - __main__ - INFO - 🚀 Initializing Trust-Enabled X Mention Monitor
+2025-06-08 05:44:38,784 - __main__ - INFO - 🔐 Authenticating with X API...
+2025-06-08 05:44:39,121 - __main__ - INFO - 🔥 API CALL: get_me (general) - Cost: 1 - Session: 1/15
+2025-06-08 05:44:39,121 - __main__ - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 05:44:39,121 - __main__ - INFO - 🔬 Initializing comprehensive analyzer...
+2025-06-08 05:44:39,121 - __main__ - INFO - 🔒 Initializing trust validation system...
+2025-06-08 05:44:39,121 - trust_system.trust_integration - INFO - 🔐 Initializing trust validation system...
+2025-06-08 05:44:39,121 - trust_system.trusted_accounts - INFO - 🚀 Initializing Trusted Account Validation System...
+2025-06-08 05:44:39,121 - trust_system.trusted_accounts - INFO - 🔍 Fetching trusted accounts list from GitHub...
+2025-06-08 05:44:39,172 - trust_system.trusted_accounts - INFO - ✅ Loaded 71 trusted accounts
+2025-06-08 05:44:39,172 - trust_system.trusted_accounts - INFO - 📋 Sample accounts: JupiterExchange, RaydiumProtocol, orca_so, KaminoFinance, MeteoraAG
+2025-06-08 05:44:39,173 - trust_system.trusted_accounts - INFO - 📊 Categories: {'DeFi Protocol': 14, 'Other': 4, 'NFT/Gaming': 10, 'Infrastructure': 14, 'Gaming/Metaverse': 1, 'Key Opinion Leader': 5, 'Media/Community': 23}
+2025-06-08 05:44:39,173 - trust_system.trusted_accounts - INFO - 🔄 Resolving trusted account usernames to user IDs...
+2025-06-08 05:44:39,174 - trust_system.trusted_accounts - INFO - 📦 Loaded 10 user IDs from cache
+2025-06-08 05:44:39,174 - trust_system.trusted_accounts - INFO - ✅ Trusted Account Validation System initialized successfully
+2025-06-08 05:44:39,174 - trust_system.trusted_accounts - INFO - 📊 System ready: 10/71 accounts resolved
+2025-06-08 05:44:39,174 - trust_system.trust_integration - INFO - ✅ Trust validation system ready
+2025-06-08 05:44:39,174 - __main__ - INFO - ✅ Trust validation system ready
+2025-06-08 05:44:39,174 - __main__ - INFO - 🚀 Starting Trust-Enabled Monitoring Session
+2025-06-08 05:44:39,174 - __main__ - INFO - 🎯 Trigger: '@satyvm acc'
+2025-06-08 05:44:39,174 - __main__ - INFO - 📊 Session limit: 15 API calls
+2025-06-08 05:44:39,174 - __main__ - INFO - 🔒 Trust validation: ✅ Enabled
+2025-06-08 05:44:39,174 - __main__ - INFO - 🧪 TEST MODE: Generating enhanced test data
+2025-06-08 05:44:39,174 - __main__ - INFO - 🧪 Generated comprehensive test data with trust validation targets
+2025-06-08 05:44:39,174 - __main__ - INFO - 📱 Processing 1 mention(s)
+2025-06-08 05:44:39,174 - __main__ - INFO - 📱 Processing mention 1/1
+2025-06-08 05:44:39,174 - __main__ - INFO - 🔬 Analyzing @defi_security_expert (Reply to original tweet author)
+2025-06-08 05:44:39,174 - __main__ - INFO - 🔬 Starting comprehensive analysis...
+2025-06-08 05:44:39,404 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 901 seconds.
+2025-06-08 05:53:17,130 - __main__ - INFO - 📊 API Usage loaded - Total: 1, Trust: 0
+2025-06-08 05:53:17,131 - __main__ - INFO - 📖 Last seen tweet ID: 1931495745783542261
+2025-06-08 05:53:17,131 - __main__ - INFO - 🚀 Initializing Trust-Enabled X Mention Monitor
+2025-06-08 05:53:17,131 - __main__ - INFO - 🔐 Authenticating with X API...
+2025-06-08 05:53:17,444 - __main__ - INFO - 🔥 API CALL: get_me (general) - Cost: 1 - Session: 1/15
+2025-06-08 05:53:17,445 - __main__ - INFO - ✅ Successfully authenticated as @satyvm
+2025-06-08 05:53:17,446 - __main__ - INFO - 🔬 Initializing comprehensive analyzer...
+2025-06-08 05:53:17,446 - __main__ - INFO - 🔒 Initializing trust validation system...
+2025-06-08 05:53:17,446 - trust_system.trust_integration - INFO - 🔐 Initializing trust validation system...
+2025-06-08 05:53:17,446 - trust_system.trusted_accounts - INFO - 🚀 Initializing Trusted Account Validation System...
+2025-06-08 05:53:17,446 - trust_system.trusted_accounts - INFO - 🔍 Fetching trusted accounts list from GitHub...
+2025-06-08 05:53:17,764 - trust_system.trusted_accounts - INFO - ✅ Loaded 71 trusted accounts
+2025-06-08 05:53:17,764 - trust_system.trusted_accounts - INFO - 📋 Sample accounts: JupiterExchange, RaydiumProtocol, orca_so, KaminoFinance, MeteoraAG
+2025-06-08 05:53:17,765 - trust_system.trusted_accounts - INFO - 📊 Categories: {'DeFi Protocol': 14, 'Other': 4, 'NFT/Gaming': 10, 'Infrastructure': 14, 'Gaming/Metaverse': 1, 'Key Opinion Leader': 5, 'Media/Community': 23}
+2025-06-08 05:53:17,765 - trust_system.trusted_accounts - INFO - 🔄 Resolving trusted account usernames to user IDs...
+2025-06-08 05:53:17,766 - trust_system.trusted_accounts - INFO - 📦 Loaded 10 user IDs from cache
+2025-06-08 05:53:17,766 - trust_system.trusted_accounts - INFO - ✅ Trusted Account Validation System initialized successfully
+2025-06-08 05:53:17,766 - trust_system.trusted_accounts - INFO - 📊 System ready: 10/71 accounts resolved
+2025-06-08 05:53:17,766 - trust_system.trust_integration - INFO - ✅ Trust validation system ready
+2025-06-08 05:53:17,766 - __main__ - INFO - ✅ Trust validation system ready
+2025-06-08 05:53:17,766 - __main__ - INFO - 🚀 Starting Trust-Enabled Monitoring Session
+2025-06-08 05:53:17,766 - __main__ - INFO - 🎯 Trigger: '@satyvm acc'
+2025-06-08 05:53:17,766 - __main__ - INFO - 📊 Session limit: 15 API calls
+2025-06-08 05:53:17,766 - __main__ - INFO - 🔒 Trust validation: ✅ Enabled
+2025-06-08 05:53:17,766 - __main__ - INFO - 🔍 Fetching mentions for user ID: 912363642154127361
+2025-06-08 05:53:18,005 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 900 seconds.
+2025-06-08 05:53:36,314 - __main__ - INFO - 🛑 Monitoring stopped by user
+2025-06-08 05:59:40,814 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 901 seconds.
+2025-06-08 06:14:42,229 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 901 seconds.
